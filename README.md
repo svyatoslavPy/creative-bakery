@@ -1,4 +1,15 @@
 # Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+
+About 
+
+* Landing page for a bakery caffe 
+* Responsive layout for various screen-widths
+
+Technologies Used
+
+* HTML5
+* CSS3 
+* SCSS
+* BEM
+
+[DEMO LINK](https://svyatoslavPy.github.io/creative-bakery/) | [LAYOUT DESIGN](https://www.figma.com/design/dY3izAm0Vspsmra4lQWQIP/Bakerlab_FE-students?node-id=0-1)
